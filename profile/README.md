@@ -3,9 +3,9 @@ Founded in 2009, E3 UFSC is a multidisciplinary student team at the Federal Univ
 
 🏆 **Latin American record holder in the Shell Eco-marathon Battery-Electric Prototype category.**
 
-<div style="text-align:center">    
-    <img src="/images/emerald.png" />
-</div>
+<p align="center">
+  <img src="images/emerald.png" alt="Emerald" width="900">
+</p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/e3ufsc/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e3-ufsc-162353243/)
