@@ -1,6 +1,10 @@
 ### QUEM É A E3 UFSC?
 A E3 UFSC é uma equipe de competição criada em 2009 e formada por estudantes de diversos cursos da Universidade Federal de Santa Catarina, na qual projeta, constrói e valida protótipos veiculares ultraeficientes nas categorias gasolina e elétrico, na competição Shell Eco-Marathon, colaborando para a construção de um mundo mais eficiente e sustentável.
 
+<div style="text-align:center">    
+    <img src="/images/2023-10-15_16-55.png" />
+</div>
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/e3ufsc/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e3-ufsc-162353243/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://mobile.twitter.com/e3ufsc)
