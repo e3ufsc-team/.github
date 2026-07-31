@@ -1,13 +1,14 @@
-### QUEM É A E3 UFSC?
-A E3 UFSC é uma equipe de competição criada em 2009 e formada por estudantes de diversos cursos da Universidade Federal de Santa Catarina, na qual projeta, constrói e valida protótipos veiculares ultraeficientes nas categorias gasolina e elétrico, na competição Shell Eco-Marathon, colaborando para a construção de um mundo mais eficiente e sustentável.
+### ABOUT US
+Founded in 2009, E3 UFSC is a multidisciplinary student team at the Federal University of Santa Catarina (UFSC). We design, develop, build, and validate ultra-efficient battery-electric prototype vehicles for the Shell Eco-marathon, fostering innovation, energy efficiency, and technological advancement through engineering, collaboration, and hands-on experience.
+
+🏆 **Latin American record holder in the Shell Eco-marathon Battery-Electric Prototype category.**
 
 <div style="text-align:center">    
-    <img src="/images/2023-10-15_16-55.png" />
+    <img src="/images/emerald.png" />
 </div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/e3ufsc/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e3-ufsc-162353243/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://mobile.twitter.com/e3ufsc)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=e3ufsc&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e3ufsc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
